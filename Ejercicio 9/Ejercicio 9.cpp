@@ -5,7 +5,7 @@ int main(){
 
 int Minuts, Hours, Rest;
 
-cout<<"Por favor, Ingrese la cantidad de minutos a convertir: ";
+cout<<"Por Favor, Ingrese la cantidad de minutos a convertir: ";
 cin>>Minuts;
 
 Rest = Minuts%60;
