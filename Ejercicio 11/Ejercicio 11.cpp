@@ -12,7 +12,7 @@ int main(){
     d_Rest = t_hour%24;
     Days = (t_hour-d_Rest)/24;
     
-    cout<<"Sus minutos equivalen a: "<<Days<<" Dia(s) "<< d_Rest<<" Hora(s) y "<<Rest<<" Minuto(s)";
+    cout<<"Sus Minutos equivalen a: "<<Days<<" Dia(s) "<< d_Rest<<" Hora(s) y "<<Rest<<" Minuto(s)";
 
 
 
